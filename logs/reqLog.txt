@@ -16,3 +16,14 @@
 2023/11/01	14:41:49	2e910ea3-6f05-4d5f-8fe8-44d5830aa3a3	GET	undefined	/index
 2023/11/01	14:43:22	8f8146b2-56ea-4ae6-ba47-cad912ce9d88	GET	undefined	/index
 2023/11/01	14:43:22	072d3ff9-945d-459a-a67d-3164c5a7ea1c	GET	undefined	/public/css/style.css
+2023/11/01	14:58:06	2366185e-f42f-4f82-93c2-d61c06cba9f5	GET	undefined	/index
+2023/11/01	15:00:51	a3dc52a0-43db-4199-bd01-8db1dc5eea63	GET	undefined	/index
+2023/11/01	15:00:51	fe34ced6-4493-4e23-adc9-a2972b22daa3	GET	undefined	/public/css/style.css
+2023/11/01	15:03:12	44828f99-5f66-400f-b746-b43f19b3180a	GET	undefined	/dave
+2023/11/01	15:03:12	f47f3eec-b45d-4590-902a-f9a9c1bb3bee	GET	undefined	/public/css/style.css
+2023/11/01	15:07:11	43100d77-edbc-4f58-a98b-dbc2e2512b3b	GET	undefined	/dave
+2023/11/01	15:07:11	196c7044-5d43-4499-a075-eef22fbebd0a	GET	undefined	/public/css/style.css
+2023/11/01	15:28:15	b69fc64c-12bb-4a74-850b-63c55243bb52	GET	undefined	/dave
+2023/11/01	15:28:15	8bdbef7e-35f4-46ec-b203-5f9579600d74	GET	undefined	/public/css/style.css
+2023/11/01	15:28:22	a072afba-5e6f-4a0c-8e1b-4c73001aca20	GET	undefined	/
+2023/11/01	15:28:22	e10692f1-13ae-4b53-a08a-9fb234b5a9a1	GET	undefined	/public/css/style.css
