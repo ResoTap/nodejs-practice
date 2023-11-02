@@ -1,2 +1,5 @@
 2023/10/30	12:54:35	755f37ce-0250-48f2-b9f9-a9ff96a60277	TypeError: fsPromises.readFil is not a function
 2023/11/01	14:58:06	26d8c2a5-2ad7-4466-b7fa-ffe1995a34a6	Error: Not allowed by CORS
+2023/11/02	09:37:19	d65d4fe0-672f-494b-b7bf-7e1f4a32998c	TypeError: Cannot read properties of undefined (reading 'id')
+2023/11/02	09:37:34	47778e5e-b6b9-48c7-941b-40a9c15fd97b	TypeError: Cannot read properties of undefined (reading 'id')
+2023/11/02	09:38:03	cbe37f9d-c434-42f7-837e-3b8343718598	TypeError: Cannot read properties of undefined (reading 'id')

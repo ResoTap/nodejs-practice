@@ -45,3 +45,17 @@
 2023/11/01	17:17:18	a4d24b27-44c1-4685-851b-bb62aa73fa1d	GET	undefined	/public/css/style.css
 2023/11/01	17:17:58	541647e9-b2e2-40f6-863d-5cf00134b925	GET	undefined	/new-page.html
 2023/11/01	17:17:58	2a2f6880-3000-41ba-8d0a-c095ffc5de5f	GET	undefined	/public/css/style.css
+2023/11/02	09:10:37	c27f93c0-1c9b-44db-bf94-78a3c633432e	GET	undefined	/employees
+2023/11/02	09:28:25	652d62a0-fbdf-4713-bf6d-9493ce692cba	POST	undefined	/employees
+2023/11/02	09:32:21	adaf2653-6fd5-433a-8046-6c5ff0228d56	POST	undefined	/employees
+2023/11/02	09:33:48	1ef9b0e5-31e6-45ac-99fe-63fc983aede8	POST	undefined	/employees
+2023/11/02	09:35:10	65e34533-6296-4aae-890a-04dae4fcfba0	PUT	undefined	/employees
+2023/11/02	09:35:47	5e00a4f6-c84b-409a-ad77-8fd94215762f	PUT	undefined	/employees
+2023/11/02	09:36:32	aa0b398c-85fa-4989-8676-b13deac5368b	DELETE	undefined	/employees
+2023/11/02	09:37:19	8ee04dbe-167e-45b3-ab7b-9b06f62bd746	GET	undefined	/employees/1
+2023/11/02	09:37:34	8e5fcb43-b184-4696-9c7e-0aa96cd5118a	GET	undefined	/employees/2
+2023/11/02	09:38:03	0d0334d1-fdaf-48af-9168-58897f21a6b3	GET	undefined	/employees/1
+2023/11/02	09:41:53	16c47d44-e4a6-4137-b362-014e4d3928ff	GET	undefined	/employees/1
+2023/11/02	09:41:59	13868821-f9d9-4ae4-a9c7-d070b030f2d5	GET	undefined	/employees/2
+2023/11/02	09:42:04	0bec9b5a-35bd-45cb-8420-1aa26c15582d	GET	undefined	/employees/3
+2023/11/02	09:42:09	6b8c7d66-038a-4b36-9390-1fc08adbfd3e	GET	undefined	/employees/4
