@@ -23,4 +23,14 @@ const deleteEmployee = (req, res) => {
     res.json({ "id": req.body.id })
 }
 
-module.export = getAllEmployees;
+const getEmployee = (req, res) => {
+    res.json({ "id": req.params.id });
+}
+
+module.export = { 
+    getAllEmployees,
+    createNewEmployee,
+    updateEmployee,
+    deleteEmployee,
+    getEmployee
+ };
