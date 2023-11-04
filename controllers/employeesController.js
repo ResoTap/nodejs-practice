@@ -54,7 +54,7 @@ const getEmployee = (req, res) => {
     res.json(employee);
 }
 
-module.export = { 
+module.exports = { 
     getAllEmployees,
     createNewEmployee,
     updateEmployee,
