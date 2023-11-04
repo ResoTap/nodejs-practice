@@ -12,7 +12,7 @@ const handleNewUser = async (req, res) => {
     if (!user || !pwd) return res.status(400).json({ 'message': 'Username and password required.' });
     // check for duplicate usernames in the db
     const duplicate = usersDB.users.find(person => person.username === user);
-    if (duplicate) return res.sendStatus(409);
+    if (duplicate) return res.sendStatus(409); // Conflict, duplcate detected in DB
     try {
         // encrypt the password
         const hashedPwd = await bcrypt.hash(pwd, 10);
@@ -30,4 +30,4 @@ const handleNewUser = async (req, res) => {
     }
 }
 
-module.exports = {handleNewUser };
+module.exports = { handleNewUser };
