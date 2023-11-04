@@ -69,3 +69,5 @@
 2023/11/04	09:21:05	36bd85be-1b53-4662-b46d-853e244b49f8	POST	undefined	/employees
 2023/11/04	09:21:11	9df9d76d-06f8-4507-a90e-57954d5592be	DELETE	undefined	/employees
 2023/11/04	09:21:30	4bdb8559-0a7a-434b-b889-8b3a4aa65a89	GET	undefined	/employees/1
+2023/11/04	10:33:34	648fbda8-b589-4f63-8365-8b1913458075	POST	undefined	/register
+2023/11/04	10:34:13	ae26c7e9-ce78-4975-9106-1af50b2405be	POST	undefined	/register
