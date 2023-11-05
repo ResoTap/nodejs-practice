@@ -88,3 +88,6 @@
 2023/11/05	08:50:04	64a5fc1e-a405-4b82-858f-417c5d03ae83	GET	undefined	/employees
 2023/11/05	08:50:06	c1cb8038-f29d-412b-b3ea-2c979574f33d	GET	undefined	/employees
 2023/11/05	08:51:14	36620752-bb8f-4a22-9ac0-956b7a24da81	POST	undefined	/employees
+2023/11/05	09:17:31	a8dadb4b-82b7-49ba-baac-f83ad733512d	POST	undefined	/auth
+2023/11/05	09:18:31	fbba5836-2ed9-4a74-b076-943ed28f6115	GET	undefined	/refresh
+2023/11/05	09:19:05	ead2e65c-364e-467b-b5f3-6476aae1a246	GET	undefined	/refresh
