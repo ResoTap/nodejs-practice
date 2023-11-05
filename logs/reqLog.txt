@@ -99,3 +99,4 @@
 2023/11/05	10:52:39	cf099e4d-f3d8-4caf-b002-778421e15c28	POST	undefined	/auth
 2023/11/05	10:52:45	a8e35920-ab4e-42ea-b1fc-8970fbc351cf	GET	undefined	/refresh
 2023/11/05	11:23:52	a1c869fc-48d5-4c17-96ea-2f791f621526	POST	undefined	/logout
+2023/11/05	11:32:20	c7d192b2-8b40-4bca-856b-2884886c2a5c	POST	undefined	/auth
