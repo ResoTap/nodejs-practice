@@ -3,3 +3,4 @@
 2023/11/02	09:37:19	d65d4fe0-672f-494b-b7bf-7e1f4a32998c	TypeError: Cannot read properties of undefined (reading 'id')
 2023/11/02	09:37:34	47778e5e-b6b9-48c7-941b-40a9c15fd97b	TypeError: Cannot read properties of undefined (reading 'id')
 2023/11/02	09:38:03	cbe37f9d-c434-42f7-837e-3b8343718598	TypeError: Cannot read properties of undefined (reading 'id')
+2023/11/05	10:51:22	fae8f724-e127-4143-97b4-a0147eef2c91	ReferenceError: sendStatus is not defined
