@@ -4,3 +4,7 @@
 2023/11/02	09:37:34	47778e5e-b6b9-48c7-941b-40a9c15fd97b	TypeError: Cannot read properties of undefined (reading 'id')
 2023/11/02	09:38:03	cbe37f9d-c434-42f7-837e-3b8343718598	TypeError: Cannot read properties of undefined (reading 'id')
 2023/11/05	10:51:22	fae8f724-e127-4143-97b4-a0147eef2c91	ReferenceError: sendStatus is not defined
+2023/11/06	13:27:20	f79c4412-31d0-4b7d-9862-08ae6aef2d36	SyntaxError: Unexpected token e in JSON at position 0
+2023/11/06	13:29:03	328f83b4-bd3b-439e-9950-3e8d8c6d06cb	SyntaxError: Unexpected token e in JSON at position 0
+2023/11/06	13:29:41	040ed7e9-c01d-4884-b0c0-b6c5b7de8743	TypeError: Cannot read properties of undefined (reading 'username')
+2023/11/06	13:32:36	27573c29-0887-4488-949f-b79024cbbb41	TypeError: Cannot read properties of undefined (reading 'username')
