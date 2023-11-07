@@ -3,7 +3,6 @@ const data = {
     setEmployees: function (data) { this.employees = data }
 }
 
-// Somethings up with this function, it seems to be read as an undefined object and not a callback function
 const getAllEmployees = (req, res) => {
     res.json(data.employees);
 }
